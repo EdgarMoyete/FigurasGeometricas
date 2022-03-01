@@ -1,0 +1,4 @@
+/dist
+/geometricas.egg-info
+setup.py
+*.pyc
